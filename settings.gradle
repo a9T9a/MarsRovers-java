@@ -1,0 +1,4 @@
+include ':javalib'
+include ':lib_java'
+include ':app'
+rootProject.name = "Picksoft"
